@@ -33,7 +33,7 @@ The points with this sign *, means that a ticket must be added to be able to car
 
 ## ⌨️Installation⌨️
 
-1. You must clone the [repository](http://bitbucket.agile.banco.latam:7990/projects/FDQA/repos/proyecto-plantilla/browse) of the project and import the project into the IDE.
+1. You must clone the [repository](https://github.com/MiguelMirandaPRCR/JourneyPromericaJava) of the project and import the project into the IDE.
 
 ## ✔️Considerations✔️
 
@@ -52,19 +52,3 @@ The points with this sign *, means that a ticket must be added to be able to car
 2. For the execution of automated tests in apps, remember that the capabilities files must be modified with the corresponding data.
 
 3. Remember that in the XML file that is created for the execution of the tests, the url parameter and the platform that is required to be executed must be specified. For the URL parameter when you want to run a test in an app, you must fill it with the value of **NA**.
-
-## 💻Pending💻
-
-1. We are working on adding the section to automate desktop applications.
-
-2. Work is being done on a reporting standard for the presentation of evidence.
-
-3. Work is being done to standardize the CI/CD process.
-
-4. An automated test certification memo is being worked on.
-
-5. We are working on adding the non-functional tests section and its standard documentation.
-
-## 📕Wiki📕
-
-The space in confluence of [QA Automation](http://confluence.agile.banco.latam:8090/x/BIKPAg) is shared to have all the documentation at hand.
